@@ -16,6 +16,6 @@ A Graduate student of Bachelor of Industrial Technology leading to Bachelor in T
 - Knowledgeable from basic to intermediate commands in **Linux**
 
 ## 🧠 Learning
-- <img src = 'https://github.com/Kitsunejasutin/Kitsunejasutin/blob/master/images/react.svg' width='33'/> **React**
-- <img src = 'https://github.com/Kitsunejasutin/Kitsunejasutin/blob/master/images/next-js.svg' width='33'/>**Next.js**
-- <img src = 'https://github.com/Kitsunejasutin/Kitsunejasutin/blob/master/images/Laravel.png' width='33'/>**Laravel**
+- <img src = 'https://github.com/Kitsunejasutin/Kitsunejasutin/blob/main/images/react.svg' width='33'/> **React**
+- <img src = 'https://github.com/Kitsunejasutin/Kitsunejasutin/blob/main/images/next-js.svg' width='33'/>**Next.js**
+- <img src = 'https://github.com/Kitsunejasutin/Kitsunejasutin/blob/main/images/Laravel.png' width='33'/>**Laravel**
