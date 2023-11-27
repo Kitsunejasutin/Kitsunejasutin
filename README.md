@@ -17,3 +17,7 @@ A Graduate student of Bachelor of Industrial Technology leading to Bachelor in T
 
 ## 🧠 Learning
 <img src = 'https://github.com/Kitsunejasutin/Kitsunejasutin/blob/main/images/nextjs.png' width='50'/> <img src = 'https://github.com/Kitsunejasutin/Kitsunejasutin/blob/main/images/react.svg' width='50'/>  <img src = 'https://github.com/Kitsunejasutin/Kitsunejasutin/blob/main/images/Laravel.png' width='50'/>
+
+![Kitsunejasutin's github stats](https://github-readme-stats-kitsunejasutin.vercel.app/api?username=Kitsunejasutin&theme=tokyonight&show_icons=true&include_all_commits=true&hide_border=true&PAT_1") ![Kitsunejasutin's language stats](https://github-readme-stats-kitsunejasutin.vercel.app/api/top-langs/?username=Kitsunejasutin&langs_count=10&theme=tokyonight&layout=compact&hide_border=true&PAT_1") 
+### Spotify Now Playing 🎧
+[![Spotify](https://novatorem-kitsunejasutin.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/csapawn)
