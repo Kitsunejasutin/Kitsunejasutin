@@ -1,6 +1,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://www.icegif.com/wp-content/uploads/2023/08/icegif-470.gif' width='300'>
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 A Graduate student of Bachelor of Industrial Technology leading to Bachelor in Technical Vocational Teachers Education Major in Computer Programming Technology [@Universidad de Manila 🇵🇭](https://udm.edu.ph/). It is indeed a long course, but ultimately it’s a matter of personal choice between teaching and industry. I chose industry, and here I am now. 
